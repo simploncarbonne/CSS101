@@ -9,14 +9,14 @@ Découvrir HTML/CSS
 ## Contexte
 Il y a fort fort longtemps, les pages web étaient statiques (et moches). Comme il faut bien commencer par le début, à vous de faire pareil.
 
-## Intention
+## Intention 
 Premier contact avec le code et les outils utilisés.
 
 ## Compétence.s concernée.s
     • C1 : Maquetter une application
     • C4 : Développer une interface utilisateur
 
-## Critères de réussite
+## Critères de réussite
     • Le projet comprend un fichier .html ainsi qu’un fichier .css.
     • Le code est indenté et lisible.
     • Il n’y a pas d’erreurs dans le code. 
@@ -30,7 +30,7 @@ Premier contact avec le code et les outils utilisés.
 
 > Travail individuel
 
-## Réalisation attendues
+## Réalisation attendues
 Le contenu est déjà présent dans le fichier index.html.   
 Pour l’instant, il est donc interdit d’y toucher.   
 
